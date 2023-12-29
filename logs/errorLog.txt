@@ -1,0 +1,10 @@
+20231124	01:51:32	0ecd0151-e89b-4911-b27c-b3ea4926305d	TypeError: fsPromises.readFil is not a function
+20231125	15:33:29	66351170-4fc6-419e-b896-62e124bc4ee8	Error: Not allowed by CORS
+20231125	15:46:25	0f4b8ae0-c342-452d-80ce-b022a230a4aa	ReferenceError: sendFile is not defined
+20231128	15:54:58	552243d5-e398-4ac1-916c-58fb5ab2350a	Error: ENOENT: no such file or directory, stat '/var/www/html/demos/nodeProjects/nodeNpm/routes/views/test.html'
+20231128	15:55:53	adac76f9-3073-44d8-ac8e-a6c4146cff20	Error: ENOENT: no such file or directory, stat '/var/www/html/demos/nodeProjects/nodeNpm/routes/views/test.html'
+20231128	15:56:22	96371565-6adb-4040-8497-942046c4969b	Error: ENOENT: no such file or directory, stat '/var/www/html/demos/nodeProjects/nodeNpm/routes/views/test.html'
+20231128	15:58:16	08769200-8801-4ec0-94b3-6485f0e84677	Error: ENOENT: no such file or directory, stat '/var/www/html/demos/nodeProjects/nodeNpm/routes/test.html'
+20231128	15:59:07	fa5d0660-65cf-4773-98da-edd55950ee2e	Error: ENOENT: no such file or directory, stat '/var/www/html/demos/nodeProjects/nodeNpm/views/test.html'
+20231208	02:10:47	7c50f903-037e-41c6-90e2-61ae45d76938	ReferenceError: decoded is not defined
+20231208	02:12:11	2abe445c-0daf-41ae-baff-f9756f02bc4a	Error: secretOrPrivateKey must have a value

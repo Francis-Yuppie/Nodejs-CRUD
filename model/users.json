@@ -1,0 +1,69 @@
+[
+    {
+        "username": "Francis",
+        "password": "$2b$10$My.jj8K/zqMRy6GRxJki9ekwrkA431vRlB9QHKErIYOLomqig8HkG"
+    },
+    {
+        "username": "Hafsa",
+        "password": "$2b$10$17FAMCEdDOD99MKnIg/8meSlm9hh42kyOlu/0brcerj4oEqV0rR7y"
+    },
+    {
+        "username": "bazil",
+        "password": "$2b$10$MlINXEdbC.Bn.NT7OGUii.tLnMC/I4lHqHMIoudFD0NQHnLGxDPL6"
+    },
+    {
+        "username": "Ummu",
+        "password": "$2b$10$wFKK44a4ifgzsseTu4wjkuRt19NP2/.H0mLz7Cnyg4ngfaj1LM/lK"
+    },
+    {
+        "username": "sharon",
+        "password": "$2b$10$1xQIaoUPZjLy6Ar/zLggLuuDTtZyeF9ufbjpe4HKjx7bGUtEqLOvq"
+    },
+    {
+        "username": "Pheona",
+        "password": "$2b$10$Rl1rzZzm0X1mtE65ahwyTuOuDrEXxrQ9PfEbiq2TYD2foRm4BwFcS"
+    },
+    {
+        "username": "Aggy1",
+        "password": "$2b$10$5oxkEEgAeB9PUSm864jW1OQVwIVe4Ra1IBwUYxDfXG51h.6bzQKNO"
+    },
+    {
+        "username": "Victor",
+        "password": "$2b$10$ut0XyANa7wg3YBFTF5kR3eTXb6OcWtZtSnZJbdGbgxkRyzUV3it6G"
+    },
+    {
+        "username": "Aggy",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "password": "$2b$10$S5cJcXJ.oWDkD/EtZzfveOZOdrKRjvYxbSeC1CgU9ZDPjZ00lwf7W",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFnZ3kiLCJpYXQiOjE3MDM2Nzg2MjcsImV4cCI6MTcwMzc2NTAyN30.ygA7GGRcwB_2G0p16TQItF1YaHeuxXPmcPHVN4MghSk"
+    },
+    {
+        "username": "Tina",
+        "roles": {
+            "User": 2001
+        },
+        "password": "$2b$10$S5cJcXJ.oWDkD/EtZzfveOZOdrKRjvYxbSeC1CgU9ZDPjZ00lwf7W",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFnZ3kiLCJpYXQiOjE3MDM2Nzg2MjcsImV4cCI6MTcwMzc2NTAyN30.ygA7GGRcwB_2G0p16TQItF1YaHeuxXPmcPHVN4MghSk"
+    },
+    {
+        "username": "Latifa",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "password": "$2b$10$S5cJcXJ.oWDkD/EtZzfveOZOdrKRjvYxbSeC1CgU9ZDPjZ00lwf7W",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFnZ3kiLCJpYXQiOjE3MDM2Nzg2MjcsImV4cCI6MTcwMzc2NTAyN30.ygA7GGRcwB_2G0p16TQItF1YaHeuxXPmcPHVN4MghSk"
+    },
+    {
+        "username": "Ogolla",
+        "roles": {
+            "User": 2001
+        },
+        "password": "$2b$10$Jl.CkJylX6L0NVHB4.YUiOLovGubdH96SjXjodE6A9NU2D0yWd7Bu",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik9nb2xsYSIsImlhdCI6MTcwMzY4NTA0OSwiZXhwIjoxNzAzNzcxNDQ5fQ.-PjBAVvFCtkrvuB0NSd9zXBhMM21T8JaO5OESYre89k"
+    }
+]
