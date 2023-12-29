@@ -3,22 +3,21 @@ This is a node js crud application which basically allow you to perfome crud ope
 It uses the express framework and mongo DB togother with mongoose library
 
 # Installation
-     To install this project you need to have node.js and npm installed on your computer
-     Then clone this repository to your local machine using this command
-     git clone https://github.com/Francis-Yuppie/Nodejs-CRUD.git
+To install this project you need to have node.js and npm installed on your computer
+Then clone this repository to your local machine using this command
+           git clone https://github.com/Francis-Yuppie/Nodejs-CRUD.git
      
-    Next navigate to the project folder and install the required packages using npm 
-     npm install
-
-  # Usage
+Next navigate to the project folder and install the required packages using npm 
+        npm install
+# Usage
        To run this project use the following command
        npm run dev
        NOTE: the main entry file is newServer.js not the server js
-  # Documentation 
+# Documentation 
     ---
-  # Changes
+# Changes
     ---
-  # OtherInfo
+# OtherInfo
      The newServer js is the enrty file wich uses the express framework to create the server
      the setver listesn on PORT 3300 you can modify this in .env file
      The server.js file it contains source code for the server but not using express framework this file is jut for demo 
