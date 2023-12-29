@@ -30,8 +30,8 @@ It uses the express framework and mongo DB togother with mongoose library
      NOTE 
      For db url i have uses mongo db using Atlas to create my database and collections
      Make sure you have visted mongodb.com to create your database and collections before setting this const 
-     LINK
-       https://cloud.mongodb.com
+ LINK
+ https://cloud.mongodb.com
   
      This is optional you can choose to work with your prefered Database
      DATABASE_URI = 'db url'
