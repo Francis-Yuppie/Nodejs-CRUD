@@ -12,9 +12,10 @@ Next navigate to the project folder and install the required packages using npm
 
         npm install
 # Usage
-       To run this project use the following command
+To run this project use the following command
+
        npm run dev
-       NOTE: the main entry file is newServer.js not the server js
+ NOTE: the main entry file is newServer.js not the server js
 # Documentation 
     ---
 # Changes
@@ -29,7 +30,7 @@ the .env files contains this Const variables
 
      ACCES_TOKEN_SECRET = 'set your secret key here'
      REFRESH_TOKEN_SECRET = 'your key'
-     NOTE 
+NOTE 
 For db url i have uses mongo db using Atlas to create my database and collections
 Make sure you have visted mongodb.com to create your database and collections before setting this const 
  LINK
